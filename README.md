@@ -1,2 +1,2 @@
-# IOT-2
+# Second task
 The second task in IOT
